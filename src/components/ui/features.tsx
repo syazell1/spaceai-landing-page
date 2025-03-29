@@ -59,7 +59,7 @@ const VipFeature = () => {
         <section className="h-full">
             <div className="grid grid-cols-2 gap-8 items-center h-full">
                 <div className="pr-4">
-                    <h3 className="text-justify font-semibold text-5xl">Sell exclusivity, not only treatments-Custom memberships your way. Create offers so good they can't say no to, Create magic.</h3>
+                    <h3 className="text-justify font-semibold text-5xl">Sell exclusivity, not only treatments-Custom memberships your way. Create offers so good they can&apos;t say no to, Create magic.</h3>
                 </div>
                 <div className="h-[500px] flex items-center justify-center">
                     <Image 

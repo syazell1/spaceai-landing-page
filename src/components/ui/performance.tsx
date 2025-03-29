@@ -20,13 +20,6 @@ type TStatsCard = {
 }
 
 const StatsCard = ({ icon, percentage, description }: TStatsCard) => {
-    const colors = {
-        blue: {
-            bg: 'bg-blue-100',
-            iconBg: 'bg-blue-500',
-            text: 'text-blue-500'
-        }
-    };
 
     return (
         <div className="p-4 rounded-lg flex flex-col gap-1 bg-blue-100 border border-blue-500 space-y-4">
